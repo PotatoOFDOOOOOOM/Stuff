@@ -1,0 +1,21 @@
+body {text-align: center}
+#section1 {font-size:30px}
+h1 {font-size:50px}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    color: black;
+    font-size: 30px;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor:pointer;
+    position:fixed;
+    float: right;}
+.potatolink {
+    text-align:left;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+.potatolink:hover {background-color:chartreuse }
+hr {width:300px;}
+.articleofdoompotato:hover {color:chartreuse}
